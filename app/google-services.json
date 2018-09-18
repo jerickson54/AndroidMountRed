@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "524686027153",
+    "firebase_url": "https://mountred-e1541.firebaseio.com",
+    "project_id": "mountred-e1541",
+    "storage_bucket": "mountred-e1541.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524686027153:android:9334a5d284db8a89",
+        "android_client_info": {
+          "package_name": "android.erickson.com.mountred"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524686027153-s4d8vehq23irs437ob0n6lkjuqmm2jjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.erickson.com.mountred",
+            "certificate_hash": "d813dfdde31e6f634337a2205ed6ca0d93c9becf"
+          }
+        },
+        {
+          "client_id": "524686027153-9jid0purhdj9369ni7sdfool335qhiru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSI5IZGqaeQts8pCp_BpRvQZ9lX1hYrgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524686027153-9jid0purhdj9369ni7sdfool335qhiru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
